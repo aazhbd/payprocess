@@ -1,0 +1,55 @@
+/* CSS Document */
+
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	background-image:url(imgs/bgpic.jpg);
+}
+
+a{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	font-size:14px;
+	text-align:justify;
+}
+
+p{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	color:#000033;
+	font-size:14px;
+	text-align:justify;
+}
+
+.formText{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000099;
+	font-size:12px;
+}
+
+.MOver{
+	background-color:#405f73;
+	color:#608ca9;
+	text-align:center;
+}
+
+.MOut{
+	background-color:#608ca9;
+	color:#405f73;
+	text-align:center;
+}
+
+input{
+	background-color:#CCCCCC;
+	color:#000066;
+}
+
+select{
+	background-color:#CCCCCC;
+	color:#000066;
+}
+
+.textformtable{
+	text-align:justify;
+	font-size:14px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#CCCCCC;
+}
